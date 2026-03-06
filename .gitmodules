@@ -5,4 +5,4 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/IT-Cotato/COTATO-BE-v2.git
-	branch = main
+	branch = develop
