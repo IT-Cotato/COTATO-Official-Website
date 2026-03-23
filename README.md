@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/944823c6-9fd0-4980-a29a-0e2b79766c4b" width="24"/> COTATO Official Website
+# <img src="https://github.com/user-attachments/assets/58209ae6-41fd-4928-89cd-69092c97730a" width="24"/> COTATO Official Website
 
 ### "COde Together, Arrive TOgether"
 IT 연합 동아리 코테이토의 공식 홈페이지입니다.
@@ -8,7 +8,7 @@ IT 연합 동아리 코테이토의 공식 홈페이지입니다.
 [![코테이토 배포 링크][cotato-shield]][cotato-url]
 <br>
 
-![COTATO Main Banner](https://github.com/user-attachments/assets/ddd2a101-d862-407f-981e-24e6e638d49b)
+![COTATO Main Banner](https://github.com/user-attachments/assets/4417ff4f-99d5-4aef-a02d-add55c73dd1c)
 
 <br>
 
@@ -20,8 +20,8 @@ IT 연합 동아리 코테이토의 공식 홈페이지입니다.
 
 - [📖 Project Overview](#-project-overview)
 - [👥 Team Members](#-team-members)
-- [⚙️ Key Features](#️-key-features)
 - [⚒️ System Architecture](#️-system-architecture)
+- [⚙️ Key Features](#️-key-features)
 - [📊 Key Results](#-key-results)
 
 ---
@@ -169,23 +169,25 @@ IT 연합 동아리 코테이토의 공식 홈페이지입니다.
 
 
 ---
-# ⚒️ System Architecutre
+# ⚒️ System Architecture
 > 코테이토 홈페이지의 개발 아키텍처를 통해 시스템의 구조와 설계 방식을 소개합니다.
 
 | Frontend Architecture | Backend Architecture |
 | :--: | :--: |
-| <img src="https://github.com/user-attachments/assets/19701947-f422-48ab-8dff-50289e8606e3" width="600"/> | <img src="https://github.com/user-attachments/assets/dc5c5800-528c-467b-a5f5-cd9ab64aac1a" width="600"/> |
+| <img src="https://github.com/user-attachments/assets/f5d6e7ec-f08d-40ae-8aa5-58e3490c95eb" width="600"/> | <img src="https://github.com/user-attachments/assets/0ddcac7b-27da-46eb-be34-4022aba8c989" width="600"/> |
+
+
 
 
 # ⚙️ Key Features
 > 주요 화면을 통해 코테이토 홈페이지의 핵심 기능과 사용자 경험을 소개합니다.
-<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/2d3ef705-b583-477b-bc86-0f49e4aa040d" />
-<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/202b212d-ce12-4aee-977d-6f132052cb48" />
-<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/14c7262e-26d0-4aa0-a7b4-881041264c43" />
-<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/e5d0a3b4-a1e6-4c5b-b191-cb561cab6f45" />
-<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/e9f9d2eb-9fd2-4de9-b3eb-91498e12b21e" />
-<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/3a52d11b-fab7-4e13-b098-2c6dbe323ff6" />
-<img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/62bdd7b2-c1ff-4c39-9b8a-2d84d68fbceb" />
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/a0b1520e-22f7-45a9-a2a7-f9e63a690fd2" />
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/64a47a43-8b18-4699-9edb-e7328d260b4d" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/ab5ffd4f-0045-42db-866b-a498ef44a6eb" />
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/db3dea5b-baae-4746-ad77-a9709d80f0f1" />
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/d4c44575-2f17-46e9-a63f-d6d614f64bc1" />
+<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/b18f3b56-3416-4024-ac61-f9952656077e" />
+<img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/c797afe2-4a5c-4121-b60d-7257e80bbb65" />
 
 
 # 📊 Key Results
@@ -194,10 +196,11 @@ IT 연합 동아리 코테이토의 공식 홈페이지입니다.
 
 <div align="center">
 
-|                                                        📈 트래픽 증가                                                         |                                                        📄 페이지 탐색                                                         |                                                        ⏱️ 체류 시간                                                        |
-| :-----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/user-attachments/assets/bdf480c1-bfbb-4651-b307-33492cbe5674" width="300" alt="GA4_보고서"/> | <img src="https://github.com/user-attachments/assets/4e378343-25a7-41ac-aa48-d658331a2833" width="300" alt="페이지탐색"/> | <img src="https://github.com/user-attachments/assets/99d48956-a32d-418c-86be-2ab4fe6550b1" width="300" alt="체류시간"/> |
-|                                             모집 기간 **활성 사용자 약 1,000명** 유입<br>기존 대비 트래픽 **55~67%** 증가                                              |                                                 모집 기간 **세션당 평균 7.6페이지** 탐색                                                |                                                 모집 기간 **평균 체류 시간 5분 54초** 기록                                                 |
+| 📈 트래픽 증가 | 📄 페이지 탐색 | ⏱️ 체류 시간 |
+| :--: | :--: | :--: |
+| <img src="https://github.com/user-attachments/assets/3939160a-5b34-497c-805c-9c8502ae5403" width="300"/> | <img src="https://github.com/user-attachments/assets/7d1ba087-26a0-4ccf-b7fc-2c2bbb13940c" width="300"/> | <img src="https://github.com/user-attachments/assets/e63116d6-16ff-4d3b-9609-8722c9ba2c0e" width="300"/> |
+| 모집 기간 **활성 사용자 1,000명** 유입<br>기존 대비 트래픽 **55~67% 증가** | 세션당 평균<br> **7.6 pages** 탐색 | 평균 체류 시간<br>**5m 54s 기록** |
+
 
 
 
@@ -210,7 +213,7 @@ IT 연합 동아리 코테이토의 공식 홈페이지입니다.
 
 <div align="center">
 
-![Cotato_Project](https://github.com/user-attachments/assets/6be75673-97f5-43bc-8a05-fdd781c34bec)
+![eod](https://github.com/user-attachments/assets/0641a1b7-0d0c-4f87-b903-05b614d3cd03)
 
 </div>
 
