@@ -186,7 +186,7 @@ IT 연합 동아리 코테이토의 공식 홈페이지입니다.
 <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/ab5ffd4f-0045-42db-866b-a498ef44a6eb" />
 <img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/db3dea5b-baae-4746-ad77-a9709d80f0f1" />
 <img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/d4c44575-2f17-46e9-a63f-d6d614f64bc1" />
-<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/b18f3b56-3416-4024-ac61-f9952656077e" />
+<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/c4c5e285-74c6-40d5-ab92-52309728b421" />
 <img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/c797afe2-4a5c-4121-b60d-7257e80bbb65" />
 
 
